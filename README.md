@@ -12,13 +12,19 @@
   全体のスタイルを整えよう
 </details>
 <details>
+  <summary>4. </summary>
+  余計なスタイルをリセットしよう
+</details>
 <details>
   <summary>5. </summary>
   ナビゲーションのスタイルを整えよう
 </details>
+<details>
+  <summary>6. </summary>
+  サムネイルのスタイルを整えよう
+</details>
 
 <!-- 
-6. サムネイルのスタイルを整えよう
 7. JavaScriptでメイン画像を表示しよう
 8. サムネイルを表示しよう
 9. メインの画像を切り替えよう
