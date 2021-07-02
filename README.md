@@ -43,8 +43,11 @@
   <summary>11. </summary>
   「次へ」ボタンを動作させよう
 </details>
+<details>
+  <summary>12. </summary>
+  「前へ」とPlayボタンを動作させよう
+</details>
 
 
-<!-- 
-12. 「前へ」とPlayボタンを動作させよう
+<!--
 13. Pauseボタンを動作させよう -->
