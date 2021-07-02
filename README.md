@@ -39,8 +39,12 @@
   <summary>10. </summary>
   currentクラスを移動させよう
 </details>
+<details>
+  <summary>11. </summary>
+  「次へ」ボタンを動作させよう
+</details>
+
 
 <!-- 
-11. 「次へ」ボタンを動作させよう
 12. 「前へ」とPlayボタンを動作させよう
 13. Pauseボタンを動作させよう -->
