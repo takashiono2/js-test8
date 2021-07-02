@@ -27,9 +27,12 @@
   <summary>7. </summary>
   JavaScriptでメイン画像を表示しよう
 </details>
+<details>
+  <summary>8. </summary>
+  サムネイルを表示しよう
+</details>
 
 <!-- 
-8. サムネイルを表示しよう
 9. メインの画像を切り替えよう
 10. currentクラスを移動させよう
 11. 「次へ」ボタンを動作させよう
