@@ -8,16 +8,16 @@
   画面のマークアップをしよう
 </details>
 <details>
-  <summary>3. 
+  <summary>3. </summary>
   全体のスタイルを整えよう
 </details>
 <details>
-  <summary>4. </summary>
-  余計なスタイルをリセットしよう
+<details>
+  <summary>5. </summary>
+  ナビゲーションのスタイルを整えよう
 </details>
 
 <!-- 
-5. ナビゲーションのスタイルを整えよう
 6. サムネイルのスタイルを整えよう
 7. JavaScriptでメイン画像を表示しよう
 8. サムネイルを表示しよう
