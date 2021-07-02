@@ -23,9 +23,12 @@
   <summary>6. </summary>
   サムネイルのスタイルを整えよう
 </details>
+<details>
+  <summary>7. </summary>
+  JavaScriptでメイン画像を表示しよう
+</details>
 
 <!-- 
-7. JavaScriptでメイン画像を表示しよう
 8. サムネイルを表示しよう
 9. メインの画像を切り替えよう
 10. currentクラスを移動させよう
