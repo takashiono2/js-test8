@@ -31,9 +31,12 @@
   <summary>8. </summary>
   サムネイルを表示しよう
 </details>
+<details>
+  <summary>9. </summary>
+  メインの画像を切り替えよう
+</details>
 
 <!-- 
-9. メインの画像を切り替えよう
 10. currentクラスを移動させよう
 11. 「次へ」ボタンを動作させよう
 12. 「前へ」とPlayボタンを動作させよう
