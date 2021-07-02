@@ -47,7 +47,7 @@
   <summary>12. </summary>
   「前へ」とPlayボタンを動作させよう
 </details>
-
-
-<!--
-13. Pauseボタンを動作させよう -->
+<details>
+  <summary>13. </summary>
+   Pauseボタンを動作させよう
+</details>
