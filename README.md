@@ -35,9 +35,12 @@
   <summary>9. </summary>
   メインの画像を切り替えよう
 </details>
+<details>
+  <summary>10. </summary>
+  currentクラスを移動させよう
+</details>
 
 <!-- 
-10. currentクラスを移動させよう
 11. 「次へ」ボタンを動作させよう
 12. 「前へ」とPlayボタンを動作させよう
 13. Pauseボタンを動作させよう -->
